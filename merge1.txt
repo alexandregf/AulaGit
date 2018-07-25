@@ -1,1 +1,1 @@
-teste merge
+teste conflito branch developer
